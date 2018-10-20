@@ -20,17 +20,9 @@ This is a paragraph
 <md>
 
 First Table| Description |
-- |:-: |
-hey | hey yo
-hey | hey yo
-</md></div>
-
-<div style="margin-left: 15rem;">
-<md>
-
-Table second| Description |
-- |:-: |
-hey | hey yo
-hey | hey yo
-
-</md></div>
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+ 
